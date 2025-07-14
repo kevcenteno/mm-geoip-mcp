@@ -1,0 +1,10 @@
+[project]
+name = "mm-geoip-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.10.5",
+    "geoip2>=5.1.0",
+]
